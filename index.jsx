@@ -3,7 +3,7 @@ const root = createRoot(document.getElementById("root"))
 
 root.render(
     <main>
-        <img width="40px" src="/src/img/react-logo.png" alt="React Logo" />
+        <img width="40px" src="react-logo.png" alt="React Logo" />
         <h1>Why Learning React?</h1>
         <p>React is a powerful JavaScript library for building user interfaces.</p>
         <ul>
